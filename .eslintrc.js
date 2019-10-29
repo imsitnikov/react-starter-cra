@@ -68,6 +68,9 @@ module.exports = {
     '@typescript-eslint/no-explicit-any': 0,
     '@typescript-eslint/explicit-function-return-type': 0,
     'no-case-declarations': 0,
+    'no-underscore-dangle': 0,
+    'react/jsx-props-no-spreading': 0,
+    'react/prop-types': 0,
   },
   settings: {
     'import/resolver': {
