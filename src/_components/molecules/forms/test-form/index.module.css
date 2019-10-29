@@ -1,0 +1,19 @@
+.testFormWrapper {
+  width: 300px;
+  border: 1px solid #000;
+  border-radius: 15px;
+}
+
+.testFormField {
+  padding: 20px 10px;
+}
+
+.testFormButton {
+  display: flex;
+  justify-content: center;
+  padding: 20px 10px;
+}
+
+.testFormTitleBlock {
+  text-align: center;
+}

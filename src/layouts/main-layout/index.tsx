@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Link } from '@/_components/link';
+import { Link } from '@/_components/atoms/link';
 
 interface IProps extends React.Props<any> {
   className?: string;
